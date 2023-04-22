@@ -1,4 +1,4 @@
-# re288-matrix
+# RE288 Matrix From Statcast Data
 
 This code demonstrates how to create an RE288 run expectancy matrix from Statcast data. Run expectancy matrices are 
 the building blocks of modern sabermetrics and it's essential for anyone to know why they're important, where they 
